@@ -1,0 +1,20 @@
+{
+    "name":"Cavalinho do Curitiba",
+    "category": "Boneco",
+    "series":"Cavalinho do Fantástico",
+    "price":"R$150,00",
+    "image":"<img src='img/cavalinhodocuritiba.jpg' width='200px'>",
+    
+    "name2":"Cavalinho do Mirassol",
+    "category2":"Boneco",
+    "series2":"Cavalinho do Fantástico",
+    "price2":"R$300,00",
+    "image2":"<img src='img/cavalinhodomirassol.jpg' width='200px'>",
+
+    "name3":"Cavalinho do Internacional",
+    "category3":"Boneco",
+    "series3":"Cavalinho do Fantástico",
+    "price3":"R$150,00",
+    "image3": "<img src='img/cavalinhodointer.jpg' width='200px'>"
+
+}
